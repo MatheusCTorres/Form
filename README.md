@@ -1,5 +1,5 @@
 # form
-form using React,JS NodeJS and MySQL
+form using ReactJS NodeJS and MySQL
 
 ## How to run the project?
 
